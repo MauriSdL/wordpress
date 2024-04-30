@@ -1,1 +1,9 @@
 [26-Apr-2024 15:59:21 UTC] PHP Warning:  Attempt to read property "title" on null in /home/mauri/Local Sites/ganabarawp/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[29-Apr-2024 17:08:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mauri/Local Sites/ganabarawp/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[29-Apr-2024 17:08:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mauri/Local Sites/ganabarawp/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[29-Apr-2024 17:08:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mauri/Local Sites/ganabarawp/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[29-Apr-2024 17:08:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mauri/Local Sites/ganabarawp/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[29-Apr-2024 17:08:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mauri/Local Sites/ganabarawp/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[29-Apr-2024 17:08:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mauri/Local Sites/ganabarawp/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[29-Apr-2024 17:08:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mauri/Local Sites/ganabarawp/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[29-Apr-2024 17:08:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in /home/mauri/Local Sites/ganabarawp/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
